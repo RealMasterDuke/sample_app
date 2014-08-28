@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'better_errors'
+
 gem 'figaro'
 
 ruby '2.0.0'
